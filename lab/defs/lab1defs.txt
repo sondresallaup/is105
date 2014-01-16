@@ -1,0 +1,23 @@
+Oppgave 2 - lab 1
+
+mkdir - forkortelse for make dir, lager mappe
+
+cd - fork. for change directory, flytter til mappe
+
+ls - fork. for list, lister ut filer og mapper i mappe
+
+ls -l - samme som ovenfor, bare med detaljer, viser begrenset utvalg
+
+ls -la - samme som ls -l, bare den viser alt
+
+pwd - print working directory - viser mappen du er i
+
+pipes - man bruker det til å for å manipulere filer
+
+redirection - snarvei
+
+grep - søkefunksjon
+
+cat - flette sammen eller skrive filer
+
+less - lese fil
