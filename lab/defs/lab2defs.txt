@@ -1,0 +1,15 @@
+Hmmmm... hva er dette?
+
+
+
+Operatørprioritet i python
+
+1: gange potenser
+2: løse opp paranteser
+3: ganger
+4: deler
+5: pluss og minus
+6: slutt
+
+Ones' Complimenet
+Noe vanskelig å forstå, trenger bedre forklaring. Hva er det? Ta opp i forelesning?
