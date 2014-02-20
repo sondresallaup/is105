@@ -1,0 +1,11 @@
+Hmm... Hva er det? Lab 3
+Et RegulÊrt Uttrykk - Et uttrykk, ord, streng som besrkiver et sett med uttrykk, ord eller streng. Kan ogsÂ vÊre et m¯nster. Bruker til Â redigere tekst basert pÂ dette m¯nsteret. 
+
+Import i Python. Bruker til Â importere ting i python, f.eks fra en annen PY fil.
+
+Skript SprÂk - Et programmeringssprÂk som tolkes av et program, og ikke en compiler. Eksempler pÂ dette kan vÊre Javascript, der nettleseren er programmet som oversetter koden. 
+
+Perl - Et sprÂk laget for Â hente ut informasjon fra andre filer. SprÂket har direkte st¯tte for "RegulÊre uttrykk". SprÂker har ogsÂ st¯ttet for databaser, slik som mysql.
+
+Bash - Et Shell i Unix. En tekstbasert terminal der man kan hente informasjon, redigere, opprette og flytte ved hjelp av tekstkommandoer. Har ogsÂ mulighet til Â hente inn nye kommandoer ved hjelp av ne skript fil.
+
