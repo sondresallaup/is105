@@ -1,0 +1,18 @@
+Hmm... Hva er det? Lab 4
+API - Application Programming Interface, et sett funksjoner, prosedyrer eller metoder som sp¯r opperativsystemer om oppgaver.
+
+IDE - Integrated development environment, et program som skal gj¯re det enklere Â programmere, og har ofte innebygget debugger.
+
+PS - Rapporterer prosess status. 
+
+DF - Sier hvor mye plass som brukes.
+
+top - Viser top CPU prosseser
+
+Kill - Dreper/Fjerner en prosses
+
+Netstat - Netrowk Statistic. Viser informasjon om dine tilkoblinger
+
+Ifconfig - Interface Configuration, administrasjonsverkt¯y for Â kontrolere og konfigurere nettverket.
+
+WHO - Printer ut informasjon om brukerne som er logger inn.
